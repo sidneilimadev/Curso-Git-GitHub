@@ -1,3 +1,2 @@
-# Curso Git/GitHub
-## Iniciando Estudos de Versionamento de Códigos
-
+# Curso Git / GitHub
+### Iniciando Estudos de Versionamento de Códigos
