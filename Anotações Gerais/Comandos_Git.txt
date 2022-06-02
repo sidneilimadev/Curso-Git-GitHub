@@ -1,0 +1,15 @@
+Comandos Básicos
+
+Criar pasta -> mkdir + nome
+Criar arquivo -> echo > + nome
+Deletar conteúdo da pasta -> del + nome
+Deletar pasta -> rmdir + nome /s /q
+Mover arquivo -> nome com extensão ./ + nome do novo local
+ls -> listar arquivos do diretório
+ls -a -> listar arquivos ocultos
+pwd -> exibe caminho completo do arquivo
+git status -> exibe status do arquivo
+cls -> limpa a tela ou ctrl+l
+git init -> inicia primeira fase de versionamento do código
+git add -> prepara o código para a fase de commit
+git commit -> encapsula o código para envio ao servidor remoto
